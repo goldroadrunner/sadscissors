@@ -1,5 +1,7 @@
 # sadscissors
 
+:bicyclist: Emory Merryman
+
 This is an assessment project.
 I am coding to a provided interface.
 
